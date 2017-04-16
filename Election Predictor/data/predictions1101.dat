@@ -1,0 +1,62 @@
+Clinton EV: 302.2	Clinton Wins: 72.5%
+Trump EV: 234.8		Trump Wins: 26.1%
+Other EV: 1.1		Other Wins: 0.0%
+Tie: 0.7%
+Deadlock: 1.3%
+
+State               |Region    |Abb|EV|% Rep |C Avg |T Avg |O Avg |C Prob|T Prob|O Prob
+--------------------+----------+---+--+------+------+------+------+------+------+------
+Alabama             |Southeast |AL |9 |0.0  %|36.9  |57.2  |5.9   |0.0  %|100.0%|0.0  %
+Alaska              |Arctic    |AK |3 |0.0  %|41.4  |47.2  |11.4  |30.9 %|69.1 %|0.0  %
+Arizona             |Southwest |AZ |11|0.0  %|45.8  |47.5  |6.7   |38.4 %|61.6 %|0.0  %
+Arkansas            |Southeast |AR |6 |0.0  %|38.0  |56.3  |5.7   |0.0  %|100.0%|0.0  %
+California          |West Coast|CA |55|0.0  %|60.1  |34.7  |5.2   |100.0%|0.0  %|0.0  %
+Colorado            |Far West  |CO |9 |0.0  %|47.6  |43.6  |8.8   |75.6 %|24.4 %|0.0  %
+Connecticut         |Northeast |CT |7 |0.0  %|53.0  |41.4  |5.6   |98.0 %|2.0  %|0.0  %
+Delaware            |Southeast |DE |3 |0.0  %|52.8  |41.0  |6.2   |90.9 %|9.1  %|0.0  %
+District of Columbia|Southeast |DC |3 |0.0  %|83.5  |11.0  |5.5   |100.0%|0.0  %|0.0  %
+Florida             |Southeast |FL |29|0.0  %|47.8  |47.8  |4.4   |49.9 %|50.1 %|0.0  %
+Georgia             |Southeast |GA |16|0.0  %|45.1  |50.1  |4.8   |17.8 %|82.2 %|0.0  %
+Hawaii              |Pacific   |HI |4 |0.0  %|58.2  |34.9  |6.9   |99.8 %|0.2  %|0.0  %
+Idaho               |Far West  |ID |4 |0.0  %|34.9  |55.5  |9.6   |0.1  %|99.9 %|0.0  %
+Illinois            |Midwest   |IL |20|0.0  %|54.4  |40.0  |5.6   |99.5 %|0.5  %|0.0  %
+Indiana             |Midwest   |IN |11|0.0  %|41.4  |51.7  |6.9   |3.2  %|96.8 %|0.0  %
+Iowa                |Midwest   |IA |6 |0.0  %|45.8  |47.6  |6.6   |37.6 %|62.4 %|0.0  %
+Kansas              |Midwest   |KS |6 |0.0  %|40.0  |50.8  |9.2   |2.8  %|97.2 %|0.0  %
+Kentucky            |Southeast |KY |8 |0.0  %|37.5  |56.7  |5.8   |0.0  %|100.0%|0.0  %
+Louisiana           |Southeast |LA |8 |0.0  %|39.4  |55.6  |5.0   |0.1  %|99.9 %|0.0  %
+Maine               |Northeast |ME |3 |0.0  %|49.9  |42.7  |7.4   |81.9 %|18.1 %|0.0  %
+Maine 2nd           |Northeast |ME2|1 |0.0  %|46.0  |46.0  |8.0   |50.0 %|50.0 %|0.0  %
+Maryland            |Southeast |MD |10|0.0  %|61.6  |33.2  |5.2   |100.0%|0.0  %|0.0  %
+Massachusetts       |Northeast |MA |11|0.0  %|59.4  |33.9  |6.7   |100.0%|0.0  %|0.0  %
+Michigan            |Midwest   |MI |16|0.0  %|48.7  |44.1  |7.2   |79.0 %|21.0 %|0.0  %
+Minnesota           |Midwest   |MN |10|0.0  %|49.4  |43.7  |6.9   |77.2 %|22.8 %|0.0  %
+Mississippi         |Southeast |MS |6 |0.0  %|40.8  |54.4  |4.8   |0.3  %|99.7 %|0.0  %
+Missouri            |Midwest   |MO |10|0.0  %|42.1  |51.6  |6.3   |7.2  %|92.8 %|0.0  %
+Montana             |Far West  |MT |3 |0.0  %|38.0  |51.3  |10.7  |7.0  %|93.0 %|0.0  %
+Nebraska            |Midwest   |NE |3 |0.0  %|35.6  |55.6  |8.8   |0.4  %|99.6 %|0.0  %
+Nebraska 1st        |Midwest   |NE1|1 |0.0  %|36.8  |54.5  |8.7   |6.5  %|93.5 %|0.0  %
+Nebraska 2nd        |Midwest   |NE2|1 |0.0  %|44.3  |48.1  |7.6   |37.2 %|62.8 %|0.0  %
+Nevada              |Far West  |NV |6 |0.0  %|47.0  |45.8  |7.2   |58.4 %|41.6 %|0.0  %
+New Hampshire       |Northeast |NH |4 |0.0  %|48.1  |43.6  |8.3   |74.6 %|25.4 %|0.0  %
+New Jersey          |Northeast |NJ |14|0.0  %|54.9  |40.9  |4.2   |99.3 %|0.7  %|0.0  %
+New Mexico          |Southwest |NM |5 |0.0  %|46.2  |38.6  |15.2  |90.7 %|9.3  %|0.0  %
+New York            |Northeast |NY |29|0.0  %|58.1  |37.2  |4.7   |100.0%|0.0  %|0.0  %
+North Carolina      |Southeast |NC |15|0.0  %|47.9  |47.7  |4.4   |51.3 %|48.7 %|0.0  %
+North Dakota        |Midwest   |ND |3 |0.0  %|35.5  |55.1  |9.4   |1.5  %|98.5 %|0.0  %
+Ohio                |Midwest   |OH |18|0.0  %|46.3  |47.6  |6.1   |40.8 %|59.2 %|0.0  %
+Oklahoma            |Southwest |OK |7 |0.0  %|34.6  |58.4  |7.0   |0.0  %|100.0%|0.0  %
+Oregon              |West Coast|OR |7 |0.0  %|51.4  |42.1  |6.5   |94.5 %|5.5  %|0.0  %
+Pennsylvania        |Northeast |PA |20|0.0  %|49.4  |45.0  |5.6   |78.9 %|21.1 %|0.0  %
+Rhode Island        |Northeast |RI |4 |0.0  %|54.1  |39.8  |6.1   |96.4 %|3.6  %|0.0  %
+South Carolina      |Southeast |SC |9 |0.0  %|44.0  |50.7  |5.3   |10.1 %|89.9 %|0.0  %
+South Dakota        |Midwest   |SD |3 |0.0  %|37.3  |53.4  |9.3   |1.9  %|98.1 %|0.0  %
+Tennessee           |Southeast |TN |11|0.0  %|40.2  |54.1  |5.7   |0.6  %|99.4 %|0.0  %
+Texas               |Southwest |TX |38|0.0  %|42.4  |51.0  |6.6   |6.1  %|93.9 %|0.0  %
+Utah                |Far West  |UT |6 |0.0  %|29.3  |38.2  |33.7  |8.5  %|73.5 %|18.0 %
+Vermont             |Northeast |VT |3 |0.0  %|59.5  |33.0  |7.5   |99.8 %|0.2  %|0.0  %
+Virginia            |Southeast |VA |13|0.0  %|50.1  |43.8  |6.1   |87.4 %|12.6 %|0.0  %
+Washington          |West Coast|WA |12|0.0  %|53.5  |40.2  |6.3   |97.7 %|2.3  %|0.0  %
+West Virginia       |Southeast |WV |5 |0.0  %|33.4  |60.2  |6.4   |0.0  %|100.0%|0.0  %
+Wisconsin           |Midwest   |WI |10|0.0  %|49.3  |44.4  |6.3   |76.9 %|23.1 %|0.0  %
+Wyoming             |Far West  |WY |3 |0.0  %|27.8  |62.3  |9.9   |0.0  %|100.0%|0.0  %
